@@ -37,7 +37,11 @@ This project provides an HTTP server script that simulates a fake WordPress logi
 
 4. Create an `index.html` file with your desired login page content. This file should be in the same directory as the script.
    I have Provided a `index.html` which is a design to look like a fake wordpress page.
-   The fake page is not a 1-to-1 scale to the design of a actual page.
+   
+   The fake page is not a 1-to-1 design to an actual wordpress page.
+
+### Example Image
+![image](https://github.com/user-attachments/assets/2912a393-1440-471b-9692-7760d8f7d099)
 
 ### Usage
 

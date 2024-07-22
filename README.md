@@ -1,6 +1,8 @@
 # HTTP WordPress Reporting Server
 
-This project provides an HTTP server script that simulates a fake WordPress login page. The server logs login attempts, fetches geolocation data for each IP address, and reports malicious IPs to AbuseIPDB.
+This project features an HTTP server script that emulates a fake WordPress login page. It logs login attempts, retrieves geolocation data, timestamp, User-agent and more for each IP address, and reports the suspicious IPs to AbuseIPDB.
+
+I've used this script to generate AbuseIPDB reports, and it continues to function. However, it's worth noting that attacks on WordPress sites have become less common, and when they do occur, they often target basic default credentials or vulnerabilities related to remote code execution (RCE) exploits.
 
 ## Features
 

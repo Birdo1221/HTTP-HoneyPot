@@ -23,8 +23,8 @@ I've used this script to generate AbuseIPDB reports, and it continues to functio
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/http-reporting-server.git
-    cd http-reporting-server
+    git clone https://github.com/Birdo1221/HTTP-HoneyPot.git
+    cd HTTP-HoneyPot
     ```
 
 2. Install the required Python packages:
